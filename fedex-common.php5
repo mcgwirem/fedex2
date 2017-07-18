@@ -70,23 +70,23 @@ function writeToLog($client){
  */
 function getProperty($var){
 
-  if($var == 'key') Return 'XXX'; 
-	if($var == 'password') Return 'XXX'; 
-	if($var == 'shipaccount') Return 'XXX';
-	if($var == 'billaccount') Return 'XXX';
-	if($var == 'dutyaccount') Return 'XXX'; 
-	if($var == 'freightaccount') Return 'XXX';  
-	if($var == 'trackaccount') Return 'XXX'; 
-	if($var == 'dutiesaccount') Return 'XXX';
-	if($var == 'importeraccount') Return 'XXX';
-	if($var == 'brokeraccount') Return 'XXX';
-	if($var == 'distributionaccount') Return 'XXX';
+  if($var == 'key') Return 'gtFbRYRR2Yid6g66'; 
+	if($var == 'password') Return 'TravisMathew070707'; 
+	if($var == 'shipaccount') Return '510087160';
+	if($var == 'billaccount') Return '510087160';
+	if($var == 'dutyaccount') Return '510087160'; 
+	if($var == 'freightaccount') Return '510087160';  
+	if($var == 'trackaccount') Return '510087160'; 
+	if($var == 'dutiesaccount') Return '510087160';
+	if($var == 'importeraccount') Return '510087160';
+	if($var == 'brokeraccount') Return '510087160';
+	if($var == 'distributionaccount') Return '510087160';
 	if($var == 'locationid') Return 'PLBA';
 	if($var == 'printlabels') Return true;
 	if($var == 'printdocuments') Return true;
 	if($var == 'packagecount') Return '4';
-	if($var == 'validateaccount') Return 'XXX';
-	if($var == 'meter') Return 'XXX';
+	if($var == 'validateaccount') Return '510087160';
+	if($var == 'meter') Return '100336990';
 		
 	if($var == 'shiptimestamp') Return mktime(10, 0, 0, date("m"), date("d")+1, date("Y"));
 
